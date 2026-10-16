@@ -1,9 +1,21 @@
 # Machine Learning Transfer Research: Simulation Prototype
 
-<p align="center">
-    <img src="./Readme/simulation.png" width="576" height="324" alt="arcade game"/>
-</p>
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./Readme/simulation.png" alt="arcade game" style="width:100%; max-width:576px; height:auto;">
+    </td>
+    <td align="center" width="50%">
+      <video src="[https://github.com/user-attachments/assets/cefbd420-7c4a-4510-b2f5-26bd3862e100](https://github.com/user-attachments/assets/915e9d86-49f0-4b9b-ab33-fe1b3a87b384)" 
+             autoplay 
+             loop 
+             muted 
+             playsinline 
+             width="100%">
+      </video>
+    </td>
+  </tr>
+</table>
 Simulation prototype for the research project: [**Evaluating transfer learning for reinforcement learning agents across same-genre video games**](https://github.com/Machine-Learning-Transfert-Research) <br>
 Research project carried out in partnership between [PulluP Entertainment](https://pullupent.com/en) and [ISART Digital Paris](https://www.isart.fr/)
 
