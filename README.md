@@ -6,7 +6,7 @@
       <img src="./Readme/simulation.png" alt="arcade game" style="width:100%; max-width:576px; height:auto;">
     </td>
     <td align="center" width="50%">
-      <video src="[https://github.com/user-attachments/assets/915e9d86-49f0-4b9b-ab33-fe1b3a87b384](https://github.com/user-attachments/assets/915e9d86-49f0-4b9b-ab33-fe1b3a87b384)" 
+      <video src="https://github.com/user-attachments/assets/915e9d86-49f0-4b9b-ab33-fe1b3a87b384" 
              autoplay 
              loop 
              muted 
